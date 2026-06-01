@@ -51,10 +51,6 @@ Key Differences:
 -A procedure does not return a value, whereas a function must return a value.
 -Functions can be called from SQL queries, procedures cannot (in most cases).
 
-```
-NAME: SWETHA S V
-REGISTER.NO: 212224230285
-```
 ## 1. Write a PL/SQL Procedure to Find the Square of a Number
 
 ### Steps:
