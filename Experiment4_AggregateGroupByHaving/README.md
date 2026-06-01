@@ -36,10 +36,7 @@ GROUP BY column_name
 HAVING condition;
 ```
 ### Queries:
-```
-Name: SWETHA S V
-Reg.NO: 212224230285
-```
+ 
 
 **Question 1**
 --
